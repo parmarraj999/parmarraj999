@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Developer from India
+A Full Stack Developer and App Developer
 
 
 ## 🌐 Socials:
